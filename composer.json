@@ -1,0 +1,17 @@
+{
+    "name": "xodeeq/xal-mvc",
+    "description": "A php mvc framework",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./",
+            "Xodeeq\\XalMvc\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Babatunde Adenowo",
+            "email": "mo.xodeeq@gmail.com"
+        }
+    ],
+    "require": {}
+}
